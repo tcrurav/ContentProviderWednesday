@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ContentProviderWednesday</string>
+    <string name="bicycle_authorities">com.example.tibur.contentproviderwednesday.provider.bicyclecontentprovider</string>
 </resources>
